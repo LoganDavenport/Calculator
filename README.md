@@ -1,3 +1,4 @@
+# Calculator
 Calculator program created by Logan Davenport
 
 Features:
@@ -6,7 +7,7 @@ Features:
   - Parses logarithms in the following forms:
     - "ln([expr])", natural logarithm
     - "log([expr])", log base 10
-    - "log_[constant]([expr])", log base a constant
+    - "log_\[constant]([expr])", log base a constant
     - "log_([expr])([expr])", log base an arbitrary expression
 - Simplification
   - Performs basic simplifcation such as removing 0s from additions e.g. log_(x)(5)+0 ==> log_(x)(5)
